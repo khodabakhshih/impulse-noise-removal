@@ -9,3 +9,5 @@ while impulse noise can cause large gradients and consequently be preserved like
 signal is analyzed and using it, an efficient diffusion based method for impulse denoising is proposed. The proposed method is carried out in 2 phases using the residual feedback and
 the localization of the noisy pixels.The experimental results confirm the efficiency of the proposed method according to subjective and objective criteria.
 
+# Citation
+[1] Rafsanjani, Hossein Khodabakhshi, Hossein Noori, and Nasibe Naseri. "Diffusion based method for impulse noise removal using residual feedback." Computers & Mathematics with Applications 107 (2022): 45-56.
