@@ -8,6 +8,11 @@ In the diffusion based processes, the gradient operator performs well in the cas
 while impulse noise can cause large gradients and consequently be preserved like the edges. Therefore, in this paper, the ENI operator which distinguishes well between impulse noise and
 signal is analyzed and using it, an efficient diffusion based method for impulse denoising is proposed. The proposed method is carried out in 2 phases using the residual feedback and
 the localization of the noisy pixels.The experimental results confirm the efficiency of the proposed method according to subjective and objective criteria.
+
+# Graphical Abstract:
+
+![Fig5](https://github.com/khodabakhshih/impulse-noise-removal/assets/50246960/d422c3b6-f6a6-402b-ab31-e5f9f5b3c3fd)
+
 # Prerequisite
 Matlab
 # Run
