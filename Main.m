@@ -12,7 +12,7 @@ NoiseLevel=0.3;%Noise Level
 %%%%%%%%%%%%End of Partameter Setting
 
 
-I=imread('Images\\lena.gif');%original image
+I=imread('lena.gif');%original image
 I=I(:,:,1);
 I0 = ImpulseNoiser(I,NoiseLevel);%noisy input image
 I=double(I);I0=double(I0);
